@@ -1,0 +1,15 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.shimmer-card{
+    width: 240px;
+    height: 240px;
+    background: lightgrey;
+    margin: 20px;
+    border: 1px solid #ccc;
+border-radius: 7px;
+}
